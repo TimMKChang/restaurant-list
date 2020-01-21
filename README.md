@@ -12,7 +12,7 @@ You can see a list of restaurants in homepage as well more details in each resta
 
 ## Installing
 1. clone the project
->git clone
+>git clone https://github.com/TimMKChang/restaurant-list.git
 2. install packages
 >npm install
 3. run the server
